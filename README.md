@@ -34,9 +34,15 @@
 
 ## 📊 Моя активность 
 
-[![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlazzerQA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=BlazzerQA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=BlazzerQA&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlazzerQA&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazzerQA&theme=tokyonight" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazzerQA&theme=tokyonight" alt="GitHub Streak"/>
