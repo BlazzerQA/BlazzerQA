@@ -34,16 +34,6 @@
 
 ## 📊 Моя активность 
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=BlazzerQA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  
-  <img height="180em" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=BlazzerQA&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazzerQA&theme=tokyonight" />
-</p>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazzerQA&theme=tokyonight" alt="GitHub Streak"/>
 </div>
