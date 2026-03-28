@@ -31,12 +31,18 @@
 - **[Backend Testing Tool]**: Кастомное решение на Python для упрощения тестирования API.
 
 ---
+
 ## 📊 Моя активность 
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlazzerQA&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazzerQA&layout=compact&langs_count=7&theme=dark" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlazzerQA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazzerQA&layout=compact&theme=tokyonight&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlazzerQA&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
 ---
 
 ## 📫 Как меня найти - **Telegram:** [потом добавлю] - **LinkedIn:** [потом добавлю] --- <p align="center"> 
